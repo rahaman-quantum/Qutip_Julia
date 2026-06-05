@@ -107,5 +107,3 @@ print("Eigenvalues from Julia:", evals)
 | File | Kernel | Description |
 |------|--------|-------------|
 | `julia_1.ipynb` | Julia + Python | Eigenvalue decomposition benchmark: NumPy vs QuTiP vs Julia on a 4×4 Hermitian matrix |
-
----
