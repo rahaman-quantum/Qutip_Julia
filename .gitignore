@@ -1,0 +1,7 @@
+julia_qiskit/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.h5
+*.png
+.DS_Store
